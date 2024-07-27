@@ -1,4 +1,4 @@
-# Microsoft Teams Webhook Finder
+# Microsoft API Wrapper
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SecNex/secnex-ms-api-wrapper/total)
 
